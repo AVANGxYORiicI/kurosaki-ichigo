@@ -1,0 +1,3 @@
+      "ip:"Bajarangdalsmp.aternos.me",
+      "port": " 28130",
+      "name": "kurosaki ichigo"
